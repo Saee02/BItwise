@@ -29,3 +29,6 @@ X Y X&Y X|Y X^Y
 0 1 0 1 1
 
 1 0 0 1 1
+
+
+![image](https://user-images.githubusercontent.com/124857336/234474239-a7e48e06-ef7d-431f-9463-033970929791.png)
